@@ -46,7 +46,7 @@ The first thing we want to do is go into our scripts.js file and create our docu
 ```javascript
 
 $(document).ready(function() {
-  //ALL CODE GOES IN HERE
+  
 });
 
 ```
